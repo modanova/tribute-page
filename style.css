@@ -46,7 +46,7 @@ p {
 }
 
 .about-her {
-  background-image:  url("/pic/emma4.jpg");
+  background-image:  url("pic/emma4.jpg");
   border-radius: 35px 0px 15px 0px;
 }
 
@@ -74,7 +74,7 @@ img.sharing-content {
 
 .image-gallery {
   flex-wrap: wrap;
-  background-image: url('/pic/butterfly1.png');
+  background-image: url('pic/butterfly1.png');
 }
 
 .image-container {
