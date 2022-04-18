@@ -47,6 +47,7 @@ p {
 
 .about-her {
   background-image:  url("pic/emma4.jpg");
+  background-size: cover;
   border-radius: 35px 0px 15px 0px;
 }
 
